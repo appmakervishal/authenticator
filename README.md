@@ -1,10 +1,10 @@
 # otp-authenticator-webapp [![starline](https://starlines.qoo.monster/assets/qoomon/otp-authenticator-webapp)](https://github.com/qoomon/starlines)
 
-[![Build Workflow](https://github.com/qoomon/otp-authenticator-webapp/workflows/Build%20&%20Deploy/badge.svg)](https://github.com/qoomon/otp-authenticator-webapp/actions)
+[![Build Workflow](https://github.com/appmakervishal/authenticator/workflows/Build%20&%20Deploy/badge.svg)](https://github.com/appmakervishal/authenticator)
 
 A *Google Authenticator* like offline webapp.
 
-Hosted at github pages: https://qoomon.github.io/otp-authenticator-webapp
+Hosted at github pages: https://github.com/appmakervishal/authenticator
 
 > [!Important] 
 > ☂️ No External Services are used, local JavaScript execution only ☂️
