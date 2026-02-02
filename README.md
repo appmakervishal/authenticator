@@ -4,7 +4,7 @@
 
 A *Google Authenticator* like offline webapp.
 
-Hosted at github pages: https://github.com/appmakervishal/authenticator
+Hosted at github pages: https://appmakervishal.github.io/authenticator/
 
 > [!Important] 
 > ☂️ No External Services are used, local JavaScript execution only ☂️
